@@ -1,1 +1,1 @@
-getgenv.scriptenabled = true
+getgenv().scriptenabled = true
